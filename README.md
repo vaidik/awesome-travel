@@ -50,7 +50,7 @@ travel.
   like such, Waze is a great alternative. Also, additional features like speed 
   trap, gas stations, restaurants, tourist information centers, etc. an come in
   handy.
-* **[City Mapper][2]** - transport app (bus, subway routes and timings) for
+* **[City Mapper][3]** - transport app (bus, subway routes and timings) for
   Europe. Works only in a few cities though but it is used a lot more than
   Google Maps by the locals.
 
