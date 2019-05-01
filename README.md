@@ -5,16 +5,38 @@ travel.
 
 ## Planning
 
-* **Digital Nomad** - 
-* **Wikitravel** - 
-* **Moon** - 
-* **Rough Guides** - 
-* **Tripadvisor** - 
+* **[Wikitravel][1]** - completely crowd-sourced travel guide. Opinions of
+  thousands of writers makes each travel guide really interesting, holistic and
+  not unnecessarily romanticised like travel books. Gives really practical
+  advices.
+* **[Moon Guides][2]** - like Lonely Planet, but better. Simple to get started
+  about a place. Very practical.
+* **[Rough Guides][3]** - like Lonely Planet, but better. Very detailed about
+  the places they cover. Also, they come with pre-built itineraries about
+  important places to cover that can help you plan your own itinerary.
+  Itineraries can also be found on their websites for free.
+* **Tripadvisor[4]** - for reviews of restaurants, hotels, BnBs, shops,
+  experiences. Also, a really good forum to ask questions from others people
+  to plan your next trip. Most probably your questions have already been asked
+  which means that the answers you are looking for are just a Google search
+  away.
 * **Google Trips** - detects your next travel from Gmail to suggest itineraries
   withing a city. It can also auto-magically create day trips suggesting where
   to start and what route to take for covering places you want to see. Also
   syncs with Google Maps so places you bookmark here are shown on Google Maps.
-* **Airbnb (Experiences)** - for finding and booking activities and experiences.
+* **[Airbnb Experiences][7]** - for finding and booking activities and
+  experiences.
+* **[Nomad List][5]** - for [digital nomads][6] to find their next destination
+  travel or live and work. Also, good for travellers looking to find interesting
+  facts about their next destination, either for planning or just for fun.
+
+[1]: https://wikitravel.org/en/Main_Page
+[2]: https://moon.com/
+[3]: https://www.roughguides.com/
+[4]: https://www.tripadvisor.com/
+[5]: https://nomadlist.com/
+[6]: https://en.wikipedia.org/wiki/Digital_nomad
+[7]: https://www.airbnb.com/s/experiences
 
 ## Flights, Trains & Buses
 
