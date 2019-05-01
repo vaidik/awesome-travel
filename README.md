@@ -17,12 +17,12 @@ travel.
   important places to cover that can help you plan your own itinerary.
   Itineraries can also be found on their websites for free. It's a handy
   resource while traveling to find more details about a place.
-* **Tripadvisor[4]** - for reviews of restaurants, hotels, BnBs, shops,
+* **[Tripadvisor][4]** - for reviews of restaurants, hotels, BnBs, shops,
   experiences. Also, a really good forum to ask questions from others people
   to plan your next trip. Most probably your questions have already been asked
   which means that the answers you are looking for are just a Google search
   away.
-* **Google Trips** - detects your next travel from Gmail to suggest itineraries
+* **[Google Trips][8]** - detects your next travel from Gmail to suggest itineraries
   within a city. It can also auto-magically create day trips suggesting where
   to start and what route to take for covering places you want to see. Also
   syncs with Google Maps so places you bookmark here are shown on Google Maps.
@@ -39,6 +39,7 @@ travel.
 [5]: https://nomadlist.com/
 [6]: https://en.wikipedia.org/wiki/Digital_nomad
 [7]: https://www.airbnb.com/s/experiences
+[8]: https://get.google.com/trips/
 
 ## Flights, Trains & Buses
 
