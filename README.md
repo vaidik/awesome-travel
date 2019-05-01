@@ -43,26 +43,26 @@ travel.
 
 ## Flights, Trains & Buses
 
-* **Hopper** - 
-* **Kayak** - 
-* **Sky Scanner** - 
-* **Flix Bus** - 
-* **Go Euro** - 
-* **Avis** - 
+* **Hopper** -
+* **Kayak** -
+* **Sky Scanner** -
+* **Flix Bus** -
+* **Go Euro** -
+* **Avis** -
 * **Hertz** -
 
 ## Taxis & Cabs
 
-* **Uber** - 
+* **Uber** -
 * **Lyft** -
 * **Grab** - cab hailing service mostly used in South East Asia.
 
 ## Accommodation, Hotels & Hostels
 
-* **Airbnb** - 
-* **Booking.com** - 
-* **Hostel World** - 
-* **Expedia** - 
+* **Airbnb** -
+* **Booking.com** -
+* **Hostel World** -
+* **Expedia** -
 
 ## Navigation
 
@@ -72,22 +72,26 @@ travel.
 * **[Waze][2]** - Although Google Maps should mostly work everwhere, sometimes
   the features could be different in different countries. For example, the
   driving navigation feature didn't work me when I was in Morocco. In situations
-  like such, Waze is a great alternative. Also, additional features like speed 
+  like such, Waze is a great alternative. Also, additional features like speed
   trap, gas stations, restaurants, tourist information centers, etc. an come in
   handy.
 * **[City Mapper][3]** - transport app (bus, subway routes and timings) for
   Europe. Works only in a few cities though but it is used a lot more than
   Google Maps by the locals.
+* **[Transit][4]** - Transit App, Simplifying the commute in more than 175
+  [cities][5] worldwide.
 
 [1]: https://www.google.com/maps
-[2]: https://www.waze.com/
-[3]: https://citymapper.com/
+[2]: https://www.waze.com
+[3]: https://citymapper.com
+[4]: https://transitapp.com
+[5]: https://transitapp.com/region/toronto#all-regions
 
 ## Gear
 
 Useful software and hardware
 
-* **GoPro Hero** - 
+* **GoPro Hero** -
 * **Dropbox**, **Google Drive** - for making important documents for your travel
   available offline on your phone. Comes in real handy for managing bookings and
   keeping Wikitravel pages offline.
