@@ -23,12 +23,12 @@ travel.
   which means that the answers you are looking for are just a Google search
   away.
 * **Google Trips** - detects your next travel from Gmail to suggest itineraries
-  withing a city. It can also auto-magically create day trips suggesting where
+  within a city. It can also auto-magically create day trips suggesting where
   to start and what route to take for covering places you want to see. Also
   syncs with Google Maps so places you bookmark here are shown on Google Maps.
 * **[Airbnb Experiences][7]** - for finding and booking activities and
   experiences.
-* **[Nomad List][5]** - for [digital nomads][6] to find their next destination
+* **[Nomad List][5]** - for [digital nomads][6] to find their next destination to
   travel or live and work. Also, good for travellers looking to find interesting
   facts about their next destination, either for planning or just for fun.
 
