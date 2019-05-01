@@ -49,8 +49,11 @@ travel.
   navigation feature didn't work me when I was in Morocco. In situations like
   such, Waze is a great alternative. Also, additional features like speed trap,
   gas stations, restaurants, tourist information centers, etc. an come in handy.
-* **City Mapper** - bus and subway routes and timings in Europe. Works only in a
-  few important cities but it is used a lot more than Google Maps.
+* **[City Mapper][2]** - transport app (bus, subway routes and timings) for
+  Europe. Works only in a few cities though but it is used a lot more than
+  Google Maps by the locals.
+
+[2]: https://citymapper.com
 
 ## Gear
 
