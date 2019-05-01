@@ -52,10 +52,6 @@ travel.
 * **City Mapper** - bus and subway routes and timings in Europe. Works only in a
   few important cities but it is used a lot more than Google Maps.
 
-## Information & Facilities
-
-* **Cafe Wifi** - 
-
 ## Gear
 
 Useful software and hardware
