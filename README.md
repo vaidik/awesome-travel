@@ -7,14 +7,16 @@ travel.
 
 * **[Wikitravel][1]** - completely crowd-sourced travel guide. Opinions of
   thousands of writers makes each travel guide really interesting, holistic and
-  not unnecessarily romanticised like travel books. Gives really practical
+  not unnecessarily romanticised like travel books. Gives practical
   advices.
 * **[Moon Guides][2]** - like Lonely Planet, but better. Simple to get started
-  about a place. Very practical.
+  about a place - does not overload you with a lot of information. Very
+  practical.
 * **[Rough Guides][3]** - like Lonely Planet, but better. Very detailed about
   the places they cover. Also, they come with pre-built itineraries about
   important places to cover that can help you plan your own itinerary.
-  Itineraries can also be found on their websites for free.
+  Itineraries can also be found on their websites for free. It's a handy
+  resource while traveling to find more details about a place.
 * **Tripadvisor[4]** - for reviews of restaurants, hotels, BnBs, shops,
   experiences. Also, a really good forum to ask questions from others people
   to plan your next trip. Most probably your questions have already been asked
