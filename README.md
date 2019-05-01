@@ -41,19 +41,22 @@ travel.
 
 ## Navigation
 
-* **Google Maps** - the de-facto of navigation. It's amazing how much Google
-  Maps has covered. Always good to check your next destination before you start
-  to find most accurate directions.
-* **Waze** - Although Google Maps should mostly work everwhere, sometimes the
-  features could be different in different countries. For example, the driving
-  navigation feature didn't work me when I was in Morocco. In situations like
-  such, Waze is a great alternative. Also, additional features like speed trap,
-  gas stations, restaurants, tourist information centers, etc. an come in handy.
+* **[Google Maps][1]** - the de-facto of navigation. It's amazing how much
+  Google Maps has covered. Always good to check your next destination before you
+  start to find most accurate directions.
+* **[Waze][2]** - Although Google Maps should mostly work everwhere, sometimes
+  the features could be different in different countries. For example, the
+  driving navigation feature didn't work me when I was in Morocco. In situations
+  like such, Waze is a great alternative. Also, additional features like speed 
+  trap, gas stations, restaurants, tourist information centers, etc. an come in
+  handy.
 * **[City Mapper][2]** - transport app (bus, subway routes and timings) for
   Europe. Works only in a few cities though but it is used a lot more than
   Google Maps by the locals.
 
-[2]: https://citymapper.com
+[1]: https://www.google.com/maps
+[2]: https://www.waze.com/
+[3]: https://citymapper.com/
 
 ## Gear
 
