@@ -66,26 +66,26 @@ travel.
 
 ## Navigation
 
-* **[Google Maps][1]** - the de-facto of navigation. It's amazing how much
+* **[Google Maps][9]** - the de-facto of navigation. It's amazing how much
   Google Maps has covered. Always good to check your next destination before you
   start to find most accurate directions.
-* **[Waze][2]** - Although Google Maps should mostly work everwhere, sometimes
+* **[Waze][10]** - Although Google Maps should mostly work everwhere, sometimes
   the features could be different in different countries. For example, the
   driving navigation feature didn't work me when I was in Morocco. In situations
   like such, Waze is a great alternative. Also, additional features like speed
   trap, gas stations, restaurants, tourist information centers, etc. an come in
   handy.
-* **[City Mapper][3]** - transport app (bus, subway routes and timings) for
+* **[City Mapper][11]** - transport app (bus, subway routes and timings) for
   Europe. Works only in a few cities though but it is used a lot more than
   Google Maps by the locals.
-* **[Transit][4]** - Transit App, Simplifying the commute in more than 175
-  [cities][5] worldwide.
+* **[Transit][12]** - Transit App, Simplifying the commute in more than 175
+  [cities][13] worldwide.
 
-[1]: https://www.google.com/maps
-[2]: https://www.waze.com
-[3]: https://citymapper.com
-[4]: https://transitapp.com
-[5]: https://transitapp.com/region/toronto#all-regions
+[9]: https://www.google.com/maps
+[10]: https://www.waze.com
+[11]: https://citymapper.com
+[12]: https://transitapp.com
+[13]: https://transitapp.com/region/toronto#all-regions
 
 ## Gear
 
