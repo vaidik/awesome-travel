@@ -46,29 +46,51 @@ travel.
 * **Hopper** - 
 * **Kayak** - 
 * **Sky Scanner** - 
-* **Flix Bus** - 
+* **Flix Bus** - bus service company for Europe. Really Cheap buses, really good
+  coverage and service.
 * **Go Euro** - 
-* **Avis** - 
-* **Hertz** -
 
-## Taxis & Cabs
+## Cars & Taxis / Cabs
 
-* **Uber** - 
-* **Lyft** -
-* **Grab** - cab hailing service mostly used in South East Asia.
+Cab hailing services:
+
+* **[Uber][1]**
+* **[Lyft][2]**
+* **[Grab][3]** - mostly used in South East Asia.
+
+Car rental services with global coverage:
+
+* **[Avis][4]**
+* **[Hertz][5]**
+
+[1]: https://uber.com/
+[2]: https://lyft.com/
+[3]: https://grab.com/
+[4]: https://avis.com/
+[5]: https://hertz.com/
 
 ## Accommodation, Hotels & Hostels
 
-* **Airbnb** - 
-* **Booking.com** - 
-* **Hostel World** - 
+* **[Airbnb][1]** - find some of the best stay experiences with locals. A lot of
+  hotels / businesses have also started listing themselves here.
+* **[Booking.com][2]** - more complete than Airbnb, you can find BnBs, small
+  hotels big hotels, hostels, pretty much everything. Their catalogue is huge.
+  Often (in my experience), they have been the cheapest. Also, good tools to
+  filter search and communicate the host / hotel.
+* **[Hostel World][3]** - lists just hostels. In that, the hostels here can be
+  cheaper than Booking. Good filter and search tools to find the right hostel
+  for your needs.
+
+[1]: https://airbnb.com/
+[2]: https://www.booking.com/
+[3]: https://hostelworld.com/
 
 ## Navigation
 
 * **[Google Maps][1]** - the de-facto of navigation. It's amazing how much
   Google Maps has covered. Always good to check your next destination before you
   start to find most accurate directions.
-* **[Waze][2]** - Although Google Maps should mostly work everwhere, sometimes
+* **[Waze][2]** - although Google Maps should mostly work everwhere, sometimes
   the features could be different in different countries. For example, the
   driving navigation feature didn't work me when I was in Morocco. In situations
   like such, Waze is a great alternative. Also, additional features like speed 
