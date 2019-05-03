@@ -37,7 +37,6 @@ travel.
 * **Airbnb** - 
 * **Booking.com** - 
 * **Hostel World** - 
-* **Expedia** - 
 
 ## Navigation
 
