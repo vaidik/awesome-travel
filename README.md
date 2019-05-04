@@ -43,12 +43,28 @@ travel.
 
 ## Flights, Trains & Buses
 
-* **Hopper** - 
-* **Kayak** - 
-* **Sky Scanner** - 
-* **Flix Bus** - bus service company for Europe. Really Cheap buses, really good
-  coverage and service.
-* **Go Euro** - 
+* **[Hopper][1]** - Hopper can monitor flight rates, predict when is the best
+  time to buy to get you most savings.
+* **[Kayak][2]** - flight aggregator, helps you find cheap flights at a given
+  point of time. You can also find car rentals and accommodation, although there
+  could be better platforms for that.
+* **[Sky Scanner][3]** - another good flight aggregator, helps you find cheap
+  flights. They have a cool feature using which you can find the cheapest
+  flights to any destination on any given date from your city - can be real
+  handy for the adventurous kinds to just hop on a flight to a random
+  destination.
+* **[Flix Bus][4]** - bus service company for Europe. Really Cheap buses, really
+  good coverage and service.
+* **[Go Euro][5]** - aggregator of flights, trains, buses, ride sharing, car
+  rentals for Europe. Great platform to plan most of your transport in Europe.
+  It also aggregates from Flix Bus, other bus services, most major airlines,
+  etc.
+
+[1]:
+[2]: https://www.kayak.com/
+[3]: https://www.skyscanner.com/
+[4]: 
+[5]: 
 
 ## Cars & Taxis / Cabs
 
