@@ -43,33 +43,70 @@ travel.
 
 ## Flights, Trains & Buses
 
-* **Hopper** - 
-* **Kayak** - 
-* **Sky Scanner** - 
-* **Flix Bus** - 
-* **Go Euro** - 
-* **Avis** - 
-* **Hertz** -
+* **[Hopper][1]** - Hopper can monitor flight rates, predict when is the best
+  time to buy to get you most savings.
+* **[Kayak][2]** - flight aggregator, helps you find cheap flights at a given
+  point of time. You can also find car rentals and accommodation, although there
+  could be better platforms for that.
+* **[Sky Scanner][3]** - another good flight aggregator, helps you find cheap
+  flights. They have a cool feature using which you can find the cheapest
+  flights to any destination on any given date from your city - can be real
+  handy for the adventurous kinds to just hop on a flight to a random
+  destination.
+* **[Flix Bus][4]** - bus service company for Europe. Really Cheap buses, really
+  good coverage and service.
+* **[Go Euro][5]** - aggregator of flights, trains, buses, ride sharing, car
+  rentals for Europe. Great platform to plan most of your transport in Europe.
+  It also aggregates from Flix Bus, other bus services, most major airlines,
+  etc.
 
-## Taxis & Cabs
+[1]:
+[2]: https://www.kayak.com/
+[3]: https://www.skyscanner.com/
+[4]: 
+[5]: 
 
-* **Uber** - 
-* **Lyft** -
-* **Grab** - cab hailing service mostly used in South East Asia.
+## Cars & Taxis / Cabs
+
+Cab hailing services:
+
+* **[Uber][1]**
+* **[Lyft][2]**
+* **[Grab][3]** - mostly used in South East Asia.
+
+Car rental services with global coverage:
+
+* **[Avis][4]**
+* **[Hertz][5]**
+
+[1]: https://uber.com/
+[2]: https://lyft.com/
+[3]: https://grab.com/
+[4]: https://avis.com/
+[5]: https://hertz.com/
 
 ## Accommodation, Hotels & Hostels
 
-* **Airbnb** - 
-* **Booking.com** - 
-* **Hostel World** - 
-* **Expedia** - 
+* **[Airbnb][1]** - find some of the best stay experiences with locals. A lot of
+  hotels / businesses have also started listing themselves here.
+* **[Booking.com][2]** - more complete than Airbnb, you can find BnBs, small
+  hotels big hotels, hostels, pretty much everything. Their catalogue is huge.
+  Often (in my experience), they have been the cheapest. Also, good tools to
+  filter search and communicate the host / hotel.
+* **[Hostel World][3]** - lists just hostels. In that, the hostels here can be
+  cheaper than Booking. Good filter and search tools to find the right hostel
+  for your needs.
+
+[1]: https://airbnb.com/
+[2]: https://www.booking.com/
+[3]: https://hostelworld.com/
 
 ## Navigation
 
 * **[Google Maps][1]** - the de-facto of navigation. It's amazing how much
   Google Maps has covered. Always good to check your next destination before you
   start to find most accurate directions.
-* **[Waze][2]** - Although Google Maps should mostly work everwhere, sometimes
+* **[Waze][2]** - although Google Maps should mostly work everwhere, sometimes
   the features could be different in different countries. For example, the
   driving navigation feature didn't work me when I was in Morocco. In situations
   like such, Waze is a great alternative. Also, additional features like speed 
