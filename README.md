@@ -43,55 +43,91 @@ travel.
 
 ## Flights, Trains & Buses
 
-* **Hopper** -
-* **Kayak** -
-* **Sky Scanner** -
-* **Flix Bus** -
-* **Go Euro** -
-* **Avis** -
-* **Hertz** -
+* **[Hopper][9]** - Hopper can monitor flight rates, predict when is the best
+  time to buy to get you most savings.
+* **[Kayak][10]** - flight aggregator, helps you find cheap flights at a given
+  point of time. You can also find car rentals and accommodation, although there
+  could be better platforms for that.
+* **[Sky Scanner][11]** - another good flight aggregator, helps you find cheap
+  flights. They have a cool feature using which you can find the cheapest
+  flights to any destination on any given date from your city - can be real
+  handy for the adventurous kinds to just hop on a flight to a random
+  destination.
+* **[Flix Bus][12]** - bus service company for Europe. Really Cheap buses, really
+  good coverage and service.
+* **[Omio][13]** - formely Go Euro, an aggregator of flights, trains, buses, 
+  ride sharing, carrentals for Europe. Great platform to plan most of your transport
+  in Europe. It also aggregates from Flix Bus, other bus services, most major airlines,
+  etc.
 
-## Taxis & Cabs
+[9]: https://www.hopper.com/
+[10]: https://www.kayak.com/
+[11]: https://www.skyscanner.com/
+[12]: https://global.flixbus.com/
+[13]: https://www.omio.com/
 
-* **Uber** -
-* **Lyft** -
-* **Grab** - cab hailing service mostly used in South East Asia.
+## Cars & Taxis / Cabs
+
+Cab hailing services:
+
+* **[Uber][14]**
+* **[Lyft][15]**
+* **[Grab][16]** - mostly used in South East Asia.
+
+Car rental services with global coverage:
+
+* **[Avis][17]**
+* **[Hertz][18]**
+
+[14]: https://uber.com/
+[15]: https://lyft.com/
+[16]: https://grab.com/
+[17]: https://avis.com/
+[18]: https://hertz.com/
 
 ## Accommodation, Hotels & Hostels
 
-* **Airbnb** -
-* **Booking.com** -
-* **Hostel World** -
-* **Expedia** -
+* **[Airbnb][19]** - find some of the best stay experiences with locals. A lot of
+  hotels / businesses have also started listing themselves here.
+* **[Booking.com][20]** - more complete than Airbnb, you can find BnBs, small
+  hotels big hotels, hostels, pretty much everything. Their catalogue is huge.
+  Often (in my experience), they have been the cheapest. Also, good tools to
+  filter search and communicate the host / hotel.
+* **[Hostel World][21]** - lists just hostels. In that, the hostels here can be
+  cheaper than Booking. Good filter and search tools to find the right hostel
+  for your needs.
+
+[19]: https://airbnb.com/
+[20]: https://www.booking.com/
+[21]: https://hostelworld.com/
 
 ## Navigation
 
-* **[Google Maps][9]** - the de-facto of navigation. It's amazing how much
+* **[Google Maps][22]** - the de-facto of navigation. It's amazing how much
   Google Maps has covered. Always good to check your next destination before you
   start to find most accurate directions.
-* **[Waze][10]** - Although Google Maps should mostly work everwhere, sometimes
+* **[Waze][23]** - although Google Maps should mostly work everwhere, sometimes
   the features could be different in different countries. For example, the
   driving navigation feature didn't work me when I was in Morocco. In situations
-  like such, Waze is a great alternative. Also, additional features like speed
+  like such, Waze is a great alternative. Also, additional features like speed 
   trap, gas stations, restaurants, tourist information centers, etc. an come in
   handy.
-* **[City Mapper][11]** - transport app (bus, subway routes and timings) for
+* **[City Mapper][24]** - transport app (bus, subway routes and timings) for
   Europe. Works only in a few cities though but it is used a lot more than
   Google Maps by the locals.
-* **[Transit][12]** - Transit App, Simplifying the commute in more than 175
-  [cities][13] worldwide.
+* **[Transit][25]** - transit App, simplifying the commute in more than 175
+  [cities][26] worldwide.
 
-[9]: https://www.google.com/maps
-[10]: https://www.waze.com
-[11]: https://citymapper.com
-[12]: https://transitapp.com
-[13]: https://transitapp.com/region/toronto#all-regions
-
+[22]: https://www.google.com/maps
+[23]: https://www.waze.com/
+[24]: https://citymapper.com/
+[25]: https://transitapp.com
+[26]: https://transitapp.com/region/toronto#all-regions
 ## Gear
 
 Useful software and hardware
 
-* **GoPro Hero** -
+* **GoPro Hero** - 
 * **Dropbox**, **Google Drive** - for making important documents for your travel
   available offline on your phone. Comes in real handy for managing bookings and
   keeping Wikitravel pages offline.
