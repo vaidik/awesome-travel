@@ -43,83 +43,86 @@ travel.
 
 ## Flights, Trains & Buses
 
-* **[Hopper][1]** - Hopper can monitor flight rates, predict when is the best
+* **[Hopper][9]** - Hopper can monitor flight rates, predict when is the best
   time to buy to get you most savings.
-* **[Kayak][2]** - flight aggregator, helps you find cheap flights at a given
+* **[Kayak][10]** - flight aggregator, helps you find cheap flights at a given
   point of time. You can also find car rentals and accommodation, although there
   could be better platforms for that.
-* **[Sky Scanner][3]** - another good flight aggregator, helps you find cheap
+* **[Sky Scanner][11]** - another good flight aggregator, helps you find cheap
   flights. They have a cool feature using which you can find the cheapest
   flights to any destination on any given date from your city - can be real
   handy for the adventurous kinds to just hop on a flight to a random
   destination.
-* **[Flix Bus][4]** - bus service company for Europe. Really Cheap buses, really
+* **[Flix Bus][12]** - bus service company for Europe. Really Cheap buses, really
   good coverage and service.
-* **[Go Euro][5]** - aggregator of flights, trains, buses, ride sharing, car
-  rentals for Europe. Great platform to plan most of your transport in Europe.
-  It also aggregates from Flix Bus, other bus services, most major airlines,
+* **[Omio][13]** - formely Go Euro, an aggregator of flights, trains, buses, 
+  ride sharing, carrentals for Europe. Great platform to plan most of your transport
+  in Europe. It also aggregates from Flix Bus, other bus services, most major airlines,
   etc.
 
-[1]:
-[2]: https://www.kayak.com/
-[3]: https://www.skyscanner.com/
-[4]: 
-[5]: 
+[9]: https://www.hopper.com/
+[10]: https://www.kayak.com/
+[11]: https://www.skyscanner.com/
+[12]: https://global.flixbus.com/
+[13]: https://www.omio.com/
 
 ## Cars & Taxis / Cabs
 
 Cab hailing services:
 
-* **[Uber][1]**
-* **[Lyft][2]**
-* **[Grab][3]** - mostly used in South East Asia.
+* **[Uber][14]**
+* **[Lyft][15]**
+* **[Grab][16]** - mostly used in South East Asia.
 
 Car rental services with global coverage:
 
-* **[Avis][4]**
-* **[Hertz][5]**
+* **[Avis][17]**
+* **[Hertz][18]**
 
-[1]: https://uber.com/
-[2]: https://lyft.com/
-[3]: https://grab.com/
-[4]: https://avis.com/
-[5]: https://hertz.com/
+[14]: https://uber.com/
+[15]: https://lyft.com/
+[16]: https://grab.com/
+[17]: https://avis.com/
+[18]: https://hertz.com/
 
 ## Accommodation, Hotels & Hostels
 
-* **[Airbnb][1]** - find some of the best stay experiences with locals. A lot of
+* **[Airbnb][19]** - find some of the best stay experiences with locals. A lot of
   hotels / businesses have also started listing themselves here.
-* **[Booking.com][2]** - more complete than Airbnb, you can find BnBs, small
+* **[Booking.com][20]** - more complete than Airbnb, you can find BnBs, small
   hotels big hotels, hostels, pretty much everything. Their catalogue is huge.
   Often (in my experience), they have been the cheapest. Also, good tools to
   filter search and communicate the host / hotel.
-* **[Hostel World][3]** - lists just hostels. In that, the hostels here can be
+* **[Hostel World][21]** - lists just hostels. In that, the hostels here can be
   cheaper than Booking. Good filter and search tools to find the right hostel
   for your needs.
 
-[1]: https://airbnb.com/
-[2]: https://www.booking.com/
-[3]: https://hostelworld.com/
+[19]: https://airbnb.com/
+[20]: https://www.booking.com/
+[21]: https://hostelworld.com/
 
 ## Navigation
 
-* **[Google Maps][1]** - the de-facto of navigation. It's amazing how much
+* **[Google Maps][22]** - the de-facto of navigation. It's amazing how much
   Google Maps has covered. Always good to check your next destination before you
   start to find most accurate directions.
-* **[Waze][2]** - although Google Maps should mostly work everwhere, sometimes
+* **[Waze][23]** - although Google Maps should mostly work everwhere, sometimes
   the features could be different in different countries. For example, the
   driving navigation feature didn't work me when I was in Morocco. In situations
   like such, Waze is a great alternative. Also, additional features like speed 
   trap, gas stations, restaurants, tourist information centers, etc. an come in
   handy.
-* **[City Mapper][3]** - transport app (bus, subway routes and timings) for
+* **[City Mapper][24]** - transport app (bus, subway routes and timings) for
   Europe. Works only in a few cities though but it is used a lot more than
   Google Maps by the locals.
+* **[Transit][25]** - transit App, simplifying the commute in more than 175
+  [cities][26] worldwide.
 
-[1]: https://www.google.com/maps
-[2]: https://www.waze.com/
-[3]: https://citymapper.com/
-
+[22]: https://www.google.com/maps
+[23]: https://www.waze.com/
+[24]: https://citymapper.com/
+[25]: https://transitapp.com
+[26]: https://transitapp.com/region/toronto#all-regions
 ## Gear
 
 Useful software and hardware
