@@ -31,6 +31,9 @@ travel.
 * **[Nomad List][5]** - for [digital nomads][6] to find their next destination to
   travel or live and work. Also, good for travellers looking to find interesting
   facts about their next destination, either for planning or just for fun.
+* **[Famxplor][27]** - Find activities for your family vacations worldwide and
+  live cherished holidays with your kids. World map featuring family travel blog
+  posts to inspire you for your next family adventure.
 
 [1]: https://wikitravel.org/en/Main_Page
 [2]: https://moon.com/
@@ -40,6 +43,7 @@ travel.
 [6]: https://en.wikipedia.org/wiki/Digital_nomad
 [7]: https://www.airbnb.com/s/experiences
 [8]: https://get.google.com/trips/
+[27]: https://famxplor.com/
 
 ## Flights, Trains & Buses
 
