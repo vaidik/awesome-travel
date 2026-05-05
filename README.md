@@ -31,6 +31,8 @@ travel.
 * **[Nomad List][5]** - for [digital nomads][6] to find their next destination to
   travel or live and work. Also, good for travellers looking to find interesting
   facts about their next destination, either for planning or just for fun.
+* **[Hackamaps][9]** - for [digital nomads][6] to plan tech-focused travel
+  by discovering upcoming global hackathons and builder communities.
 
 [1]: https://wikitravel.org/en/Main_Page
 [2]: https://moon.com/
@@ -40,6 +42,7 @@ travel.
 [6]: https://en.wikipedia.org/wiki/Digital_nomad
 [7]: https://www.airbnb.com/s/experiences
 [8]: https://get.google.com/trips/
+[9]: https://www.hackamaps.com
 
 ## Flights, Trains & Buses
 
