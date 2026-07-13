@@ -31,6 +31,9 @@ travel.
 * **[Nomad List][5]** - for [digital nomads][6] to find their next destination to
   travel or live and work. Also, good for travellers looking to find interesting
   facts about their next destination, either for planning or just for fun.
+* **[Wander China Planner][27]** - free drag-and-drop itinerary builder for 31 Chinese
+  cities. Covers verified opening hours, ticket prices, metro stops, and budget estimates
+  — no Chinese language skills needed.
 
 [1]: https://wikitravel.org/en/Main_Page
 [2]: https://moon.com/
@@ -40,6 +43,7 @@ travel.
 [6]: https://en.wikipedia.org/wiki/Digital_nomad
 [7]: https://www.airbnb.com/s/experiences
 [8]: https://get.google.com/trips/
+[27]: https://ordinarymantrying.com/tools/wander-china/planner.html
 
 ## Flights, Trains & Buses
 
