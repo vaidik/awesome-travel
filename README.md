@@ -59,12 +59,17 @@ travel.
   ride sharing, carrentals for Europe. Great platform to plan most of your transport
   in Europe. It also aggregates from Flix Bus, other bus services, most major airlines,
   etc.
+* **[Travellagio][27]** - interactive 3D globe showing live flight prices and
+  visa requirements by passport across 38 destinations. Pick a departure city
+  and destination to see current fares plus typical hotel, car, and transfer
+  costs. Free, no signup.
 
 [9]: https://www.hopper.com/
 [10]: https://www.kayak.com/
 [11]: https://www.skyscanner.com/
 [12]: https://global.flixbus.com/
 [13]: https://www.omio.com/
+[27]: https://travellagio.com/explore/
 
 ## Cars & Taxis / Cabs
 
