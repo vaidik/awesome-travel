@@ -137,6 +137,7 @@ Useful software and hardware
   The camera and voice features make it really easy. Also possible to make
   translations available offline.
 * **Splitwise** - one of the best apps to manage costs with friends.
+* **[Trip Split](https://tripsplit.sagasu.art/)** - free-to-start trip expense splitter: friends join by link (no sign-up), log expenses offline, settle with a short list of transfers.
 * **Duolingo** - learn a few important words of the foreign language before you
   reach your destination.
 * **Spotify** - your ultimate music player on the move. Very little data
