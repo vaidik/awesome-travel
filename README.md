@@ -59,12 +59,15 @@ travel.
   ride sharing, carrentals for Europe. Great platform to plan most of your transport
   in Europe. It also aggregates from Flix Bus, other bus services, most major airlines,
   etc.
+* **[Mubboo Flights][27]** - Compare flights, hotels and car rentals, with
+  destination guides, tours and attraction tickets for trip planning.
 
 [9]: https://www.hopper.com/
 [10]: https://www.kayak.com/
 [11]: https://www.skyscanner.com/
 [12]: https://global.flixbus.com/
 [13]: https://www.omio.com/
+[27]: https://mubboo.flights/
 
 ## Cars & Taxis / Cabs
 
