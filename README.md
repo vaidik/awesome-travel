@@ -5,6 +5,7 @@ travel.
 
 ## Planning
 
+* **[China Travel Check](https://gochina.taoliapp.com/)** - English independent-travel field manual for mainland China: payments, eSIM, visas (incl. transit), trains, and apps, each with a verification date. No tours sold.
 * **[Wikitravel][1]** - completely crowd-sourced travel guide. Opinions of
   thousands of writers makes each travel guide really interesting, holistic and
   not unnecessarily romanticised like travel books. Gives practical
